@@ -1,3 +1,4 @@
-# maven-project
+# Project Demo
 
-Simple Maven Project
+Simple project Demo using AWS, Docker, Ansible, Jenkins, Kubernetes, Maven, Tomcat
+
