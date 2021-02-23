@@ -1,6 +1,6 @@
-<h1> Welcome to DevOps Project !!   </h1>
-<h2> Deploying on AWS ec2 using ansible playbook along with docker automatically </h2>
-<h2> Ansible and docker files are excecuted </h2>
-<h3> SRM is github and the latest chnages are stored then jenkins picks the code withany changes and builds </h3>
-<h4> Then the build artifacts are picked along with playbook and docker file <h4>
-<h5> Just check <h5>
+<h1> Welcome to Custom Website !!   </h1>
+<h2> Deploying on AWS ec2 using docker container and image for the environment </h2>
+<h2> Ansible playbooks and docker files are excecuted </h2>
+<h3> SCM is github and then jenkins is used for continous intergration </h3>
+<h4> The build artifacts/war.file are stored in server <h4>
+<h5> Localmachine --> Github --> Dockerhub --> Jenkins (Ansible playbook and Artifacts) --> ec2 machine --> Website <h5>
